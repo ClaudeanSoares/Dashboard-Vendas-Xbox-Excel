@@ -1,10 +1,7 @@
 # Dashboard-Vendas-Xbox-Excel
 # Criando um Dashboard de Vendas do Xbox com Excel
 
-> "Estou desenvolvendo um dashboard de vendas com foco total na organização e na visualização estratégica de dados, e![1](https://github.com/user-attachments/assets/33f4cf39-4f71-4628-ade3-1444edfefd47)
-![1](https://github.com/user-attachments/assets/b176fcea-914c-48d8-8cfb-442f2e989f1f)
-<img width="1908" height="899" alt="{71E034E9-96AD-4B99-8971-F63746C2E4EC}" src="https://github.com/user-attachments/assets/b699fded-5771-44c2-aff5-3eb9e8459651" />
-ste projeto ainda apresenta falhas técnicas e pontos de otimização, mas estou empenhado em aprender com esses erros para evoluir e entregar uma solução cada vez mais robusta.."
+> "Estou desenvolvendo um dashboard de vendas com foco total na organização e na visualização estratégica de dados, este projeto ainda apresenta falhas técnicas e pontos de otimização, mas estou empenhado em aprender com esses erros para evoluir e entregar uma solução cada vez mais robusta.."
 
 ## 📌 Visão Geral do Projeto
 Este projeto foi o resultado de um desafio pessoal: converter uma base de dados bruta de assinaturas do ecossistema Xbox em uma interface de **Business Intelligence (BI)** funcional e estratégica. O foco foi criar um centro de comando que permitisse monitorar KPIs vitais, como faturamento anual, taxas de renovação e a adesão a produtos extras.
@@ -33,6 +30,8 @@ Este projeto marca uma etapa importante na minha jornada, mas vejo o aprendizado
 ---
 
 ### 🙏 Agradecimentos
-Gostaria de registrar o meu agradecimento ao **Banco Santander** e à **DIO**. O curso "Excel com Inteligência Artificial" foi o grande catalisador que me permitiu organizar meus pensamentos, tirar dúvidas complexas e aplicar funções avançadas com total clareza neste projeto.
+Gostaria de registrar o meu agradecimento ao **Banco Santander** e a **DIO**. O curso "Excel com Inteligência Artificial" foi o grande catalisador que me permitiu organizar meus pensamentos, tirar dúvidas complexas e aplicar funções avançadas com total clareza neste projeto.
+
+
 
 ---
