@@ -30,7 +30,7 @@ Este projeto marca uma etapa importante na minha jornada, mas vejo o aprendizado
 ---
 
 ### 🙏 Agradecimentos
-Gostaria de registrar o meu agradecimento ao **Banco Santander** e a **DIO**. O curso "Excel com Inteligência Artificial" foi o grande catalisador que me permitiu organizar meus pensamentos, tirar dúvidas complexas e aplicar funções avançadas com total clareza neste projeto.
+Gostaria de registrar o meu agradecimento ao **Banco Santander** e**DIO.me**. O curso "Excel com Inteligência Artificial" foi o grande catalisador que me permitiu organizar meus pensamentos, tirar dúvidas complexas e aplicar funções avançadas com total clareza neste projeto.
 
 
 
